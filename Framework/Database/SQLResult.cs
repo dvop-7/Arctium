@@ -29,4 +29,4 @@ namespace Framework.Database
             return (T)Convert.ChangeType(Rows[row][columnName], typeof(T));
         }
     }
-}
+} 
