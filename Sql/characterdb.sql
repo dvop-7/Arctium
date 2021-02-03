@@ -941,11 +941,11 @@ INSERT INTO `character_creation_spells` VALUES ('24', '10', '115074', '');
 INSERT INTO `character_creation_spells` VALUES ('24', '10', '115612', '');
 INSERT INTO `character_creation_spells` VALUES ('24', '10', '116812', '');
 INSERT INTO `character_creation_spells` VALUES ('24', '10', '119650', '');
-INSERT INTO `character_creation_spells` VALUES ('24', '10', '120272', '');
-INSERT INTO `character_creation_spells` VALUES ('24', '10', '120275', '');
-INSERT INTO `character_creation_spells` VALUES ('24', '10', '120277', '');
-INSERT INTO `character_creation_spells` VALUES ('24', '10', '128678', '');
-INSERT INTO `character_creation_spells` VALUES ('24', '10', '131701', '');
+INSERT INTO `character_creation_spells` VALUES ('24', '10', '125272', '');
+INSERT INTO `character_creation_spells` VALUES ('24', '10', '124275', '');
+INSERT INTO `character_creation_spells` VALUES ('24', '10', '122277', '');
+INSERT INTO `character_creation_spells` VALUES ('24', '10', '128478', '');
+INSERT INTO `character_creation_spells` VALUES ('24', '10', '131702', '');
 
 -- ----------------------------
 -- Table structure for `character_skills`
